@@ -84,3 +84,38 @@ private modifier is defined as double underscore:  __name
 
 protected modifier is defined as single underscore:  _name
    
+**Inheritance**
+
+Inheritance allows us to define a class that inherits all the methods and properties from another class.
+
+It has two classes.
+
+Parent class: also called the base class and is the class being inherited.
+
+child class: also called the derived class, and the class inherits the another class.
+
+Types of inheritance:
+
+-->**Single Inheritance**
+
+ex:  X--Inherits------------>Y
+
+-->**Multiple inheritance**
+
+ex: X          Y
+          Z
+
+--> **Multi Inheritance**
+
+EX: X-Grand parent-->Y--parent->Z(child)
+
+--> **Hieraichial Inheritance**
+
+ex: X can produce all child classes.
+
+--> **Hybrid Inheritance**
+
+--> It will mix 2 or more than types.
+
+--> But not allowed the single inheritance.
+
