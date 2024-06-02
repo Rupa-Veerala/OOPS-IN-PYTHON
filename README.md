@@ -129,3 +129,63 @@ ex: X can produce all child classes.
 
 --> "mul" is the common function.
 
+**Expection Handling**
+
+--> two types of errors compile time error, runtime error.
+
+--> complie time error means it's a syntax error.
+
+--> runtime error means syntax is 100% correct but after running the code then will get the error.
+
+**Handling**
+
+--> using try & except.
+
+--> "Exception" can change the normal flow of the program.
+
+--> "try" we can write the critical code.
+
+--> "Except" if we get the exception then what can do..
+
+--> Then we use "Finally" operation.
+
+--> And exception is an object.
+
+**Modules & packages**
+
+--> Difference between files & floders.
+
+--> Inside floders we can create files or floders.
+
+--> Inside file only content will be there.
+
+--> "packages" means floders that hold python files or other floders.
+
+--> "Modules" nothing but python files.
+
+--> "pip"--python package manager.
+
+--> Django, flask, are the python web developement frame works for backend.
+
+**Abstraction**
+
+--> Hiding unnecessary details.
+
+--> Abstract--classes ---> In python directly not support.
+
+--> Abstarct--methods ---> we use modules then only support.
+
+**File Handling**
+
+--> we will do operations on files.(read, write, update)
+
+--> two possibilites open(), close().
+
+ex: f = open(filename, mode)  
+
+--> mode type: t--textfile, b---binaryfile.
+
+--> r--read, a--append, w--write, x--create.
+
+
+
