@@ -119,3 +119,13 @@ ex: X can produce all child classes.
 
 --> But not allowed the single inheritance.
 
+--> The main purpose of inheritance is "Code Reusability"
+
+**Polymorphism**
+
+--> Poly means multiple.
+
+--> morphism means forms.
+
+--> "mul" is the common function.
+
